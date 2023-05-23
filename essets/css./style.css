@@ -6,7 +6,9 @@
 }
 body {
   height: 100%;
-  background-image: url(essets/foto/concrete_seamless.png);
+  background-image: url("essets/foto/concrete_seampless.png")
+
+  ;
 }
 header {
   background-color: #fff;
